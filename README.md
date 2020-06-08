@@ -13,10 +13,10 @@ likes ["Alex", "Jacob", "Mark", "Max"] // must be "Alex, Jacob and 2 others like
 
 ## Running the tests
 
-To run the tests, run `pytest hamming_test.py`
+To run the tests, run `pytest whoLikesIt.py`
 
 Alternatively, you can tell Python to run the pytest module:
-`python -m pytest hamming_test.py`
+`python -m pytest whoLikesIt_test.py`
 
 
 ### Common `pytest` options
